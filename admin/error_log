@@ -1,0 +1,16 @@
+[08-Sep-2016 09:05:24 UTC] PHP Notice:  Undefined index: er in /home/thietken/public_html/mitsubishimotors.vn/admin/dangnhap.php on line 55
+[08-Sep-2016 09:05:28 UTC] PHP Notice:  Undefined variable: email in /home/thietken/public_html/mitsubishimotors.vn/admin/dangnhap.php on line 6
+[08-Sep-2016 09:05:28 UTC] PHP Notice:  Undefined variable: password in /home/thietken/public_html/mitsubishimotors.vn/admin/dangnhap.php on line 6
+[08-Sep-2016 09:05:28 UTC] PHP Notice:  Undefined index: er in /home/thietken/public_html/mitsubishimotors.vn/admin/dangnhap.php on line 55
+[08-Sep-2016 09:05:28 UTC] PHP Notice:  Undefined index: er in /home/thietken/public_html/mitsubishimotors.vn/admin/dangnhap.php on line 55
+[08-Sep-2016 09:05:33 UTC] PHP Notice:  Undefined variable: email in /home/thietken/public_html/mitsubishimotors.vn/admin/dangnhap.php on line 6
+[08-Sep-2016 09:05:33 UTC] PHP Notice:  Undefined variable: password in /home/thietken/public_html/mitsubishimotors.vn/admin/dangnhap.php on line 6
+[08-Sep-2016 09:05:33 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in /home/thietken/public_html/mitsubishimotors.vn/admin/Model/Db.php on line 138
+[08-Sep-2016 09:05:33 UTC] PHP Notice:  Use of undefined constant User - assumed 'User' in /home/thietken/public_html/mitsubishimotors.vn/admin/Model/Db.php on line 139
+[08-Sep-2016 09:05:33 UTC] PHP Notice:  Use of undefined constant Pass - assumed 'Pass' in /home/thietken/public_html/mitsubishimotors.vn/admin/Model/Db.php on line 140
+[08-Sep-2016 09:05:33 UTC] PHP Notice:  Undefined index: er in /home/thietken/public_html/mitsubishimotors.vn/admin/dangnhap.php on line 55
+[08-Sep-2016 09:07:42 UTC] PHP Notice:  Undefined index: block_content_cn in /home/thietken/public_html/mitsubishimotors.vn/admin/Model/Block.php on line 25
+[08-Sep-2016 09:07:42 UTC] PHP Notice:  Undefined index: block_content_en in /home/thietken/public_html/mitsubishimotors.vn/admin/Model/Block.php on line 27
+[08-Sep-2016 09:10:06 UTC] PHP Notice:  Undefined index: block_content_cn in /home/thietken/public_html/mitsubishimotors.vn/admin/Model/Block.php on line 25
+[08-Sep-2016 09:10:06 UTC] PHP Notice:  Undefined index: block_content_en in /home/thietken/public_html/mitsubishimotors.vn/admin/Model/Block.php on line 27
+[08-Sep-2016 09:10:09 UTC] PHP Notice:  Undefined index: er in /home/thietken/public_html/mitsubishimotors.vn/admin/dangnhap.php on line 55

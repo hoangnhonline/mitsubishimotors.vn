@@ -1,0 +1,32 @@
+<div class="container">
+    <div class="row">
+        <div class="span12">
+            <div class="main">
+                <div class="breadcrumbs">
+                    <ul>
+                        <li class="home">
+                            <a href="" title="Go to Home Page">Trang chủ</a>
+                            <span>></span>
+                        </li>
+                        <li class="cms_page">
+                            <strong><a href="tu-van-bao-hiem.html">Tư vấn bảo hiểm</a></strong>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-main">
+                    <div class="padding-s">
+                        <div class="std">
+                            <div class="page-title">
+                                <h1>Tư vấn bảo hiểm</h1>
+                            </div>
+                            <?php 
+                                $gt=$modelBlock->getDetailBlock(13);
+                                $row_gt=  mysql_fetch_assoc($gt);
+                                echo $row_gt['block_content_'.$lang];
+                            ?>
+                        </div>                                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
